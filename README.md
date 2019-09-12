@@ -12,14 +12,17 @@ npm install hello-chalk
 ```js
 const chalk = require('hello-chalk');
 
-console.log(chalk.bold(chalk.bgBlack(chalk.red('Hello world!'))));
+console.log(chalk.red('Hello world!'));
 
-console.log(chalk.bghex('#333F60')(chalk.hex('#fff000')('Hello world again!')));
+console.log(chalk.bold(chalk.bgBlack(chalk.red('Hello world again!'))));
+
+console.log(chalk.bghex('#333F60')(chalk.hex('#fff000')('Hello world once again!')));
 
 // actually the '#' can be omitted
 ```
 
-these are supported styles and colors
+these are supported styles and colors, don't forget you can write hex value with hex and bghex
+
 ```
 // style
 reset
