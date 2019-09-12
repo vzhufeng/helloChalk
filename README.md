@@ -21,49 +21,49 @@ console.log(chalk.bghex('#333F60')(chalk.hex('#fff000')('Hello world again!')));
 
 these are supported styles and colors
 ```
-  // style
-	reset
-	bold
-	dim
-	italic
-	underline
-	inverse
-	hidden
-	strikethrough
+// style
+reset
+bold
+dim
+italic
+underline
+inverse
+hidden
+strikethrough
 
-	// front color
-	black
-	red
-	green
-	yellow
-	blue
-	magenta
-	cyan
-	white
-	blackBright
-	redBright
-	greenBright
-	yellowBright
-	blueBright
-	magentaBright
-	cyanBright
-	whiteBright
+// front color
+black
+red
+green
+yellow
+blue
+magenta
+cyan
+white
+blackBright
+redBright
+greenBright
+yellowBright
+blueBright
+magentaBright
+cyanBright
+whiteBright
 
-	// back color
-	bgBlack
-	bgRed
-	bgGreen
-	bgYellow
-	bgBlue
-	bgMagenta
-	bgCyan
-	bgWhite
-	bgBlackBright
-	bgRedBright
-	bgGreenBright
-	bgYellowBright
-	bgBlueBright
-	bgMagentaBright
-	bgCyanBright
-	bgWhiteBright
+// back color
+bgBlack
+bgRed
+bgGreen
+bgYellow
+bgBlue
+bgMagenta
+bgCyan
+bgWhite
+bgBlackBright
+bgRedBright
+bgGreenBright
+bgYellowBright
+bgBlueBright
+bgMagentaBright
+bgCyanBright
+bgWhiteBright
 ```
