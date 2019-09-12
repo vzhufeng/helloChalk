@@ -1,0 +1,24 @@
+{
+  "name": "hello-chalk",
+  "version": "0.0.1",
+  "description": "a lite version of chalk",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzhufeng/helloChalk.git"
+  },
+  "keywords": [
+    "lite",
+    "color",
+		"colour",
+		"colors",
+    "console",
+    "chalk"
+  ],
+  "author": "vzhufeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vzhufeng/helloChalk/issues"
+  },
+  "homepage": "https://github.com/vzhufeng/helloChalk#readme"
+}
